@@ -10,17 +10,30 @@ public class classScheduling {
         String name= banana.nextLine();
         System.out.println("What Grade are you in? (ex: 9,10,11,12)");
         int grade= banana.nextInt();
-        int classes=1;
-        while(input.hasNext()){
-            String schedule=input.nextLine();
-            classes++;
+        
+        while(input.hasNextLine()){
+            if(input.nextLine()==name){
+                System.out.println("We have found you in our system! Here is your schedule for today");
+            }
+            
+            if(input.nextLine()!= name){
+                System.out.println("Sorry, I do not seem to have you in my database. Please try again");
+            }
+            
+                
+            }
+        
+           
         }
-        System.out.println(classes);
-       
+        
+       // String s1 = " ";
+        //String s2 = " ";
+        //if(s1.equalsIgnoreCase(s2)){
 
+        
        
         
     }
 
     
-}
+
