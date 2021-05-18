@@ -1,0 +1,32 @@
+9
+First Period: Language      
+Second Period: Math       
+Third Period: Computer Science
+Fourth Period: Lunch            
+Fifth Period: Science
+
+10
+First Period: Language
+Second Period: History
+Third Period: Computer Science
+Fourth Period: Lunch
+Fifth Period: English 
+
+11
+First Period: History
+Second Period: Math
+Third Period: English
+Fourth Period: Lunch
+Fifth Period: No Class
+
+12
+First Period: Science
+Second Period: Math
+Third Period: English
+Fourth Period: Lunch
+Fifth Period: No Class
+
+
+
+
+
